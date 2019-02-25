@@ -1,0 +1,34 @@
+{
+  "name": "eslint-config-prophets",
+  "version": "1.0.0",
+  "description": "The Prophets JavaScript style",
+  "main": "index.js",
+  "author": "Thomas Mattheussen",
+  "license": "MIT",
+  "keywords": [
+    "style guide",
+    "lint",
+    "eslint",
+    "eslint-config"
+  ],
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.14.1",
+    "eslint-plugin-compat": "^2.7.0",
+    "eslint-plugin-json": "^1.4.0"
+  },
+  "peerDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.14.1",
+    "eslint-plugin-compat": "^2.7.0",
+    "eslint-plugin-json": "^1.4.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Prophets/eslint-config-prophets/issues"
+  },
+  "homepage": "https://github.com/Prophets/eslint-config-prophets",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Prophets/eslint-config-prophets.git"
+  }
+}
